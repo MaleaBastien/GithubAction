@@ -107,7 +107,7 @@ namespace MoqDemoTests.Logic
 
         public void tmp2()
         {
-            //throw new NotImplementedException();
+            throw new NotImplementedException();
         }
 
         [Fact]
