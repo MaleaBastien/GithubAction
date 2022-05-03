@@ -1,0 +1,12 @@
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\Dapper.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\System.Data.SQLite.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\Dapper.xml
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\System.Data.SQLite.xml
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\bin\Debug\System.Data.SQLite.dll.config
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\DemoLibrary\obj\Debug\DemoLibrary.pdb
