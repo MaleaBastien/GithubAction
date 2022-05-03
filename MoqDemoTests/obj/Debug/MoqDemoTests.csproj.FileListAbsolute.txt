@@ -1,3 +1,7 @@
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.abstractions.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.reporters.net452.dll
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.utility.net452.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\MoqDemoTests.dll.config
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\MoqDemoTests.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\MoqDemoTests.pdb
@@ -9,7 +13,6 @@ D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\Moq.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\System.Threading.Tasks.Extensions.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\System.ValueTuple.dll
-D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.abstractions.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.assert.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.core.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.execution.desktop.dll
@@ -31,11 +34,8 @@ D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\System.
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\System.Data.SQLite.dll.config
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\Dapper.xml
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.csproj.AssemblyReference.cache
+D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.csproj.SuggestedBindingRedirects.cache
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.csproj.CoreCompileInputs.cache
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.csproj.CopyComplete
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.dll
 D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.pdb
-D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
-D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.reporters.net452.dll
-D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\bin\Debug\xunit.runner.utility.net452.dll
-D:\DEV\Entrainement\MoquingCourse\MockingDemo_End\MoqDemoTests\obj\Debug\MoqDemoTests.csproj.SuggestedBindingRedirects.cache

@@ -98,6 +98,19 @@ namespace MoqDemoTests.Logic
         }
 
         [Fact]
+
+        public void tmp()
+        {
+
+        }
+        [Fact]
+
+        public void tmp2()
+        {
+            //throw new NotImplementedException();
+        }
+
+        [Fact]
         public void SavePeople_ValidCall()
         {
             using (var mock = AutoMock.GetLoose())
