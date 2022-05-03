@@ -38,3 +38,7 @@ jobs:
         
       - name: Build the Solution
         run: msbuild MoqDemo.sln
+        
+      - name: Run Tests
+        run: dotnet test --configuration Release
+      
