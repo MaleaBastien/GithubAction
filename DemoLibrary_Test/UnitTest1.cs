@@ -15,7 +15,7 @@ namespace DemoLibrary_Test
 
         public void Test2()
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
         }
     }
 }
