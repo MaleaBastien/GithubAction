@@ -20,7 +20,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        targetplatform: [x86,x64,x32]
+        targetplatform: [x64,x32]
     runs-on: windows-latest
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
