@@ -18,6 +18,7 @@ jobs:
   # This workflow contains a single job called "build"
   example_matrix:
     strategy:
+      fail-fast: false
       matrix:
         version: [10,12,14]
         os: [windows-latest, ubuntu-latest]
