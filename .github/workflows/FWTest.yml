@@ -36,9 +36,6 @@ jobs:
       # uses: NuGet/setup-nuget@b2bc17b761a1d88cab755a776c7922eb26eefbfa
         uses: NuGet/setup-nuget@v1.0.6
         
-      - name: Restore Nuget packages
-        run: nuget restore MoqDemo.sln
-        
       - name: Build the Solution
         run: msbuild MoqDemo.sln
         
