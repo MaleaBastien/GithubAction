@@ -34,7 +34,7 @@ jobs:
         run: nuget restore MoqDemo.sln
         
       - name: Build the Solution
-        run: msbuild MoqDemo.sln
+        run: msbuild MoqDemo.sln /P:Configuration=Release
         
       - name: Run Tests
         run: dotnet test --configuration Release
